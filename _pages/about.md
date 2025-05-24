@@ -21,7 +21,7 @@ I'm now working on the **application of computer graphics and robotics technolog
 
 I graduated from [School of Mathematical Sciences](https://math.fudan.edu.cn/), Fudan University (复旦大学数学科学学院) with a bachelor's degree and from the [Graphics Lab of EECS](https://www.graphics.pku.edu.cn/xztd/index.htm), Peking University (北京大学图形与交互技术实验室) with a Ph.D.'s degree. Following my doctoral studies, I held postdoctoral research positions at The University of Tokyo and the School of Engineering and Applied Science at the University of Pennsylvania. I also served as a visiting scholar at the Department of Mechanical Engineering at Carnegie Mellon University.
 
-I won the First Prize for the Ministry of Education Science and Technology Progress Award (教育部科技进步一等奖), the First Prize for the Jiangsu Provincial Engineer Society Science and Technology Award, and a Best Paper Award at [The 21st Pacific Conference on Computer Graphics and Applications, Pacific Graphics 2013](https://www.jst.go.jp/erato/igarashi/en/projects/SoftFolding/index.html). I am also proud to have mentored students who have achieved national top honors, such as the National Special Prize in the "Challenge Cup" competition (挑战杯大学生课外学术科技作品竞赛特等奖) and First Prize in national robotics and artificial intelligence competitions.
+I won the First Prize for the Ministry of Education of the People's Republic of China Science and Technology Progress Award (教育部科技进步一等奖), the First Prize for the Jiangsu Institution of Engineers Scientific and Technological Achievement Award, and a Best Paper Award at [The 21st Pacific Conference on Computer Graphics and Applications, Pacific Graphics 2013](https://www.jst.go.jp/erato/igarashi/en/projects/SoftFolding/index.html). I am also proud to have mentored students who have achieved national top honors, such as the National Special Prize in the "Challenge Cup" competition (挑战杯大学生课外学术科技作品竞赛特等奖) and First Prize in national robotics and artificial intelligence competitions.
 
 My research interests primarily lie in Computer-Aided Design and Simulation, Robot Design and Control, and Haptic Perception and Interaction. To date, I have led or been significantly involved in 10+ national and provincial-level projects, including those under the National Key R&D Program of China.
 
@@ -29,11 +29,28 @@ In the fields of computer graphics and robotics, I have published 50+ papers in 
 
 
 # 🔥 News
-- *2003.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 One paper got accepted by TRO. 
+- *2025.02*: &nbsp;🎉🎉 One paper got accepted by VR 2025. 
+- *2024.05*: &nbsp;🎉🎉 One paper got accepted by Siggraph 2024. 
+- *2024.02*: &nbsp;🎉🎉 One paper got accepted by VR 2024. 
 
 # 📝 Publications 
+## Journal Paper
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+## Conference Paper
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,8 +66,11 @@ In the fields of computer graphics and robotics, I have published 50+ papers in 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2003.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Jiangsu Provincial Science and Technology Progress Award, First Prize (江苏省科技进步一等奖).
+- *2023* Scientific and Technological Achievement Award, First Prize, the Jiangsu Institution of Engineers (江苏省工程师学会科学技术成果一等奖).
+- *2022* Teaching Achievement Award, Grand Prize, China Instrument and Control Society (中国仪器仪表学会教学成果奖特等奖).
+- *2013* The 21st Pacific Conference on Computer Graphics and Applications, Pacific Graphics 2013, Best Paper (第21届太平洋计算机图形学及应用会议最佳论文).
+- *2008* Science and Technology Progress Award, First Prize, Ministry of Education of the People's Republic of China (教育部科技进步一等奖).
 
 # 📖 Educations
 - *2003.09 - 2007.07*, Bachelor, School of Mathematical Sciences, Fudan University, Shanghai.
@@ -59,12 +79,5 @@ In the fields of computer graphics and robotics, I have published 50+ papers in 
 # 💼 Work History
 - *2012.08 - 2013.08*, Special Researcher, JST/ERATO, Toyko University, Japan.
 - *2013.08 - 2015.02*, Postdoctoral Researcher, School of Engineering and Applied Science, the University of Pennsylvania, US.
-- *2015.03 - *, Assistant Professor/Associate Professor/Professor, School of Instrument Science and Engineering, Southeast University, Nanjing.
+- *2015.03 - Now*, Assistant Professor/Associate Professor/Professor, School of Instrument Science and Engineering, Southeast University, Nanjing.
 - *2018.01 - 2018.12*, Visiting Scholar, Department of Mechanical Engineering, Carnegie Mellon University, US.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
