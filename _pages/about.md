@@ -29,7 +29,7 @@ In the fields of computer graphics and robotics, I have published 50+ papers in 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2003.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -49,12 +49,18 @@ In the fields of computer graphics and robotics, I have published 50+ papers in 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2003.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2003.09 - 2007.07*, Bachelor, School of Mathematical Sciences, Fudan University, Shanghai.
+- *2015.09 - 2019.06*, Ph.D., Graphics Lab of EECS, Peking Univeristy, Beijing.
+
+# 💼 Work History
+- *2012.08 - 2013.08*, Special Researcher, JST/ERATO, Toyko University, Japan.
+- *2013.08 - 2015.02*, Postdoctoral Researcher, School of Engineering and Applied Science, the University of Pennsylvania, US.
+- *2015.03 - *, Assistant Professor/Associate Professor/Professor, School of Instrument Science and Engineering, Southeast University, Nanjing.
+- *2018.01 - 2018.12*, Visiting Scholar, Department of Mechanical Engineering, Carnegie Mellon University, US.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
