@@ -81,8 +81,8 @@ Tactile Elastography
 </div>
 </div>
 
-- ``VR 2024`` [Force-regulated Elastic Linear Objects Tracking for Virtual and Augmented Reality](https://ieeexplore.ieee.org/abstract/document/10494196), **Yusheng Lup<sup>\*</sup>**, **Lifeng Zhu<sup>\#</sup>**, Aiguo Song, Orlando, USA.
-- ``ICRA 2023`` [Implicit Neural Field Guidance for Teleoperated Robot-assisted Surgery](https://ieeexplore.ieee.org/document/10160475), **Heng Zhang<sup>\*</sup>**, Jiangwei Shen, **Lifeng Zhu<sup>\*</sup>**, et al, London, UK.
+- ``VR 2024`` [Force-regulated Elastic Linear Objects Tracking for Virtual and Augmented Reality](https://ieeexplore.ieee.org/abstract/document/10494196), **Yusheng Luo<sup>\*</sup>**, **Lifeng Zhu<sup>\#</sup>**, Aiguo Song, Orlando, USA.
+- ``ICRA 2023`` [Implicit Neural Field Guidance for Teleoperated Robot-assisted Surgery](https://ieeexplore.ieee.org/document/10160475), **Heng Zhang<sup>\*</sup>**, Jiangwei Shen, **Lifeng Zhu<sup>\#</sup>**, et al, London, UK.
 
 # 🎖 Honors and Awards
 - *2023* Jiangsu Provincial Science and Technology Progress Award, First Prize (江苏省科技进步一等奖).
