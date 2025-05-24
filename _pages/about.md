@@ -96,7 +96,7 @@ Tactile Elastography
 - *2015.09 - 2019.06*, Ph.D., Graphics Lab of EECS, Peking Univeristy, Beijing.
 
 # 💼 Work History
-- *2012.08 - 2013.08*, Special Researcher, JST/ERATO, Toyko University, Japan.
-- *2013.08 - 2015.02*, Postdoctoral Researcher, School of Engineering and Applied Science, the University of Pennsylvania, USA.
+- *2012.08 - 2013.08*, Postdoc Researcher, JST/ERATO, Toyko University, Japan.
+- *2013.08 - 2015.02*, Postdoc Researcher, School of Engineering and Applied Science, the University of Pennsylvania, USA.
 - *2015.03 - Now*, Assistant Professor/Associate Professor/Professor, School of Instrument Science and Engineering, Southeast University, Nanjing.
 - *2018.01 - 2018.12*, Visiting Scholar, Department of Mechanical Engineering, Carnegie Mellon University, USA.
